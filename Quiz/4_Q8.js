@@ -14,3 +14,4 @@ inventory.forEach((item) => {
   }
 });
 console.log("재고가 있는 제품:", inventory);
+

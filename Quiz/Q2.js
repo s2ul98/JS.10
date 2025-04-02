@@ -1,5 +1,6 @@
 // 금지어 목록
 const forbiddenWords = ["나쁜", "더러운"];
+
 let message = "저 친구는 나쁜 친구야. 정말 더러운 사람 같아.";
 
 for (let word of forbiddenWords) {
